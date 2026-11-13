@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Streamlit local state
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
